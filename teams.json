@@ -11,6 +11,10 @@
     {
       "name": "Atl. Madrid",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/atl._madrid.png"
+    },
+    {
+      "name": "Getafe",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/getafe.png"
     }
   ]
 }

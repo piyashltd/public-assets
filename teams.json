@@ -99,6 +99,10 @@
     {
       "name": "Rayo Vallecano",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/rayo_vallecano.png"
+    },
+    {
+      "name": "Celta",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/celta.png"
     }
   ]
 }

@@ -3,6 +3,10 @@
     {
       "name": "Real Madrid",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/real_madrid.png"
+    },
+    {
+      "name": "Man City",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/man_city.png"
     }
   ]
 }

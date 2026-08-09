@@ -31,6 +31,10 @@
     {
       "name": "Liverpool",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/liverpool.png"
+    },
+    {
+      "name": "Monaco",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/monaco.png"
     }
   ]
 }

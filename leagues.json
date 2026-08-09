@@ -15,6 +15,10 @@
     {
       "name": "Premier League",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/premier_league.png"
+    },
+    {
+      "name": "Football | Club Friendlies",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/football__club_friendlies.png"
     }
   ]
 }

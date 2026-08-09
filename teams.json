@@ -75,6 +75,10 @@
     {
       "name": "Osasuna",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/osasuna.png"
+    },
+    {
+      "name": "Elche",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/elche.png"
     }
   ]
 }

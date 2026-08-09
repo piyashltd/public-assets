@@ -119,6 +119,10 @@
     {
       "name": "Sevilla",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sevilla.png"
+    },
+    {
+      "name": "Valencia",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/valencia.png"
     }
   ]
 }

@@ -11,6 +11,10 @@
     {
       "name": "League 1",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/league_1.png"
+    },
+    {
+      "name": "Premier League",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/premier_league.png"
     }
   ]
 }

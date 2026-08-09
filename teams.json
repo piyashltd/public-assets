@@ -71,6 +71,10 @@
     {
       "name": "Marseille",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/marseille.png"
+    },
+    {
+      "name": "Osasuna",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/osasuna.png"
     }
   ]
 }

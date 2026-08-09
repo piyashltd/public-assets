@@ -43,6 +43,10 @@
     {
       "name": "PSG",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/psg.png"
+    },
+    {
+      "name": "Man United",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/man_united.png"
     }
   ]
 }

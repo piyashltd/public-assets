@@ -35,6 +35,10 @@
     {
       "name": "Monaco",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/monaco.png"
+    },
+    {
+      "name": "Como",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/como.png"
     }
   ]
 }

@@ -67,6 +67,10 @@
     {
       "name": "Athletic",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/athletic.png"
+    },
+    {
+      "name": "Marseille",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/marseille.png"
     }
   ]
 }

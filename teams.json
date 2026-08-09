@@ -47,6 +47,10 @@
     {
       "name": "Man United",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/man_united.png"
+    },
+    {
+      "name": "Bayern",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/bayern.png"
     }
   ]
 }

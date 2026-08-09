@@ -123,6 +123,10 @@
     {
       "name": "Valencia",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/valencia.png"
+    },
+    {
+      "name": "Villarreal",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/villarreal.png"
     }
   ]
 }

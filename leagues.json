@@ -3,6 +3,10 @@
     {
       "name": "UEFA Champions League",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/uefa_champions_league.png"
+    },
+    {
+      "name": "LaLiga",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/laliga.png"
     }
   ]
 }

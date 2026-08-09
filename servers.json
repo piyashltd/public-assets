@@ -1,3 +1,8 @@
 {
-  "servers": []
+  "servers": [
+    {
+      "name": "Tapmad",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/tapmad.png"
+    }
+  ]
 }

@@ -87,6 +87,10 @@
     {
       "name": "Levante",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/levante.png"
+    },
+    {
+      "name": "Malaga",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/malaga.png"
     }
   ]
 }

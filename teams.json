@@ -55,6 +55,10 @@
     {
       "name": "Arsenal",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/arsenal.png"
+    },
+    {
+      "name": "Inter",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/inter.png"
     }
   ]
 }

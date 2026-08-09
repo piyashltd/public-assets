@@ -63,6 +63,10 @@
     {
       "name": "Aston Villa",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/aston_villa.png"
+    },
+    {
+      "name": "Athletic",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/athletic.png"
     }
   ]
 }

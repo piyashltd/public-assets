@@ -7,6 +7,10 @@
     {
       "name": "Server 1",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/server_1.png"
+    },
+    {
+      "name": "Server 2",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/server_2.png"
     }
   ]
 }

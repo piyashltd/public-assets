@@ -3,6 +3,10 @@
     {
       "name": "Tapmad",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/tapmad.png"
+    },
+    {
+      "name": "Server 1",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/server_1.png"
     }
   ]
 }

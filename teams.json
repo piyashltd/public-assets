@@ -19,6 +19,10 @@
     {
       "name": "Alaves",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/alaves.png"
+    },
+    {
+      "name": "Barcelona",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/barcelona.png"
     }
   ]
 }

@@ -27,6 +27,10 @@
     {
       "name": "Chelsea",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/chelsea.png"
+    },
+    {
+      "name": "Liverpool",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/liverpool.png"
     }
   ]
 }

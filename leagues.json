@@ -19,6 +19,10 @@
     {
       "name": "Football | Club Friendlies",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/football__club_friendlies.png"
+    },
+    {
+      "name": "UEFA Super Cup",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/uefa_super_cup.png"
     }
   ]
 }

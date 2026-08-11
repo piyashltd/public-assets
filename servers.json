@@ -15,6 +15,10 @@
     {
       "name": "TNT Sports 1",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/tnt_sports_1.png"
+    },
+    {
+      "name": "TNT Sports 2",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/tnt_sports_2.png"
     }
   ]
 }

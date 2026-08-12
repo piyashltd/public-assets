@@ -127,6 +127,10 @@
     {
       "name": "Villarreal",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/villarreal.png"
+    },
+    {
+      "name": "Leeds",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/leeds.png"
     }
   ]
 }

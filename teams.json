@@ -135,6 +135,10 @@
     {
       "name": "Bangladesh",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/bangladesh.png"
+    },
+    {
+      "name": "Australia",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/australia.png"
     }
   ]
 }

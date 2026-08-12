@@ -1,9 +1,9 @@
 {
   "leagues": [
     {
-      "name": "UEFA Champions League",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/uefa_champions_league.png"
-    },
+      "name": "Cricket",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/cricket.png"
+     },
     {
       "name": "LaLiga",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/laliga.png"
@@ -17,16 +17,16 @@
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/premier_league.png"
     },
     {
-      "name": "Football | Club Friendlies",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/football__club_friendlies.png"
+      "name": "UEFA Champions League",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/uefa_champions_league.png"
     },
     {
       "name": "UEFA Super Cup",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/uefa_super_cup.png"
     },
     {
-      "name": "Cricket",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/cricket.png"
+      "name": "Football | Club Friendlies",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/football__club_friendlies.png"
     }
   ]
 }

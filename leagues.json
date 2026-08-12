@@ -23,6 +23,10 @@
     {
       "name": "UEFA Super Cup",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/uefa_super_cup.png"
+    },
+    {
+      "name": "Cricket",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/cricket.png"
     }
   ]
 }

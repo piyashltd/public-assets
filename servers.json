@@ -35,6 +35,10 @@
     {
       "name": "Willow Sports SD",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/willow_sports_sd.png"
+    },
+    {
+      "name": "Sky Sport 3",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/sky_sport_3.png"
     }
   ]
 }

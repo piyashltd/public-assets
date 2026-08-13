@@ -39,6 +39,10 @@
     {
       "name": "Sky Sport 3",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/sky_sport_3.png"
+    },
+    {
+      "name": "TEN Sports",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/ten_sports.png"
     }
   ]
 }

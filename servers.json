@@ -47,6 +47,10 @@
     {
       "name": "PTV Sports SD",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/ptv_sports_sd.png"
+    },
+    {
+      "name": "Tapmad FHD",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/tapmad_fhd.png"
     }
   ]
 }

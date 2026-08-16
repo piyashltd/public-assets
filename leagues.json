@@ -3,7 +3,7 @@
     {
       "name": "Cricket",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/cricket.png"
-     },
+    },
     {
       "name": "LaLiga",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/laliga.png"
@@ -27,6 +27,10 @@
     {
       "name": "Football | Club Friendlies",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/football__club_friendlies.png"
+    },
+    {
+      "name": "FA Community Shield",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/fa_community_shield.png"
     }
   ]
 }

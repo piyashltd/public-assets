@@ -151,6 +151,10 @@
     {
       "name": "Pakistan",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/pakistan.png"
+    },
+    {
+      "name": "England",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/england.png"
     }
   ]
 }

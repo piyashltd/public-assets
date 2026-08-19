@@ -155,6 +155,10 @@
     {
       "name": "England",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/england.png"
+    },
+    {
+      "name": "Al Ahly",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/al_ahly.png"
     }
   ]
 }

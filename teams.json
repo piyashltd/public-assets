@@ -159,6 +159,10 @@
     {
       "name": "Al Ahly",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/al_ahly.png"
+    },
+    {
+      "name": "Hull City",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/hull_city.png"
     }
   ]
 }

@@ -167,6 +167,10 @@
     {
       "name": "Crystal Palace",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/crystal_palace.png"
+    },
+    {
+      "name": "Everton",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/everton.png"
     }
   ]
 }

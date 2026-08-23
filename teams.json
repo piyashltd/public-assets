@@ -179,6 +179,10 @@
     {
       "name": "Brighton",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/brighton.png"
+    },
+    {
+      "name": "Newcastle",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/newcastle.png"
     }
   ]
 }

@@ -175,6 +175,10 @@
     {
       "name": "Bournemouth",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/bournemouth.png"
+    },
+    {
+      "name": "Brighton",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/brighton.png"
     }
   ]
 }

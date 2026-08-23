@@ -171,6 +171,10 @@
     {
       "name": "Everton",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/everton.png"
+    },
+    {
+      "name": "Bournemouth",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/bournemouth.png"
     }
   ]
 }

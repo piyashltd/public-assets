@@ -183,6 +183,10 @@
     {
       "name": "Newcastle",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/newcastle.png"
+    },
+    {
+      "name": "Fulham",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/fulham.png"
     }
   ]
 }

@@ -195,6 +195,10 @@
     {
       "name": "Zimbabwe",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/zimbabwe.png"
+    },
+    {
+      "name": "South Africa",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/south_africa.png"
     }
   ]
 }

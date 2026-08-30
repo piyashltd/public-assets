@@ -207,6 +207,10 @@
     {
       "name": "Brighton",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/brighton.png"
+    },
+    {
+      "name": "Ipswich Town",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/ipswich_town.png"
     }
   ]
 }

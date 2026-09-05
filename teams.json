@@ -42,7 +42,8 @@
     },
     {
       "name": "Monaco",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/monaco.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/monaco.png",
+      "league": "League 1"
     },
     {
       "name": "Como",
@@ -50,7 +51,8 @@
     },
     {
       "name": "PSG",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/psg.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/psg.png",
+      "league": "League 1"
     },
     {
       "name": "Man United",
@@ -82,7 +84,8 @@
     },
     {
       "name": "Marseille",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/marseille.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/marseille.png",
+      "league": "League 1"
     },
     {
       "name": "Osasuna",

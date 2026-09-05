@@ -290,6 +290,11 @@
       "name": "Sunderland",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sunderland.png",
       "league": "Premier League"
+    },
+    {
+      "name": "Brentford",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/brentford.png",
+      "league": "Premier League"
     }
   ]
 }

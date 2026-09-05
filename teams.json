@@ -7,7 +7,8 @@
     },
     {
       "name": "Man City",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/man_city.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/man_city.png",
+      "league": "Premier League"
     },
     {
       "name": "Atl. Madrid",
@@ -31,11 +32,13 @@
     },
     {
       "name": "Chelsea",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/chelsea.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/chelsea.png",
+      "league": "Premier League"
     },
     {
       "name": "Liverpool",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/liverpool.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/liverpool.png",
+      "league": "Premier League"
     },
     {
       "name": "Monaco",
@@ -51,7 +54,8 @@
     },
     {
       "name": "Man United",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/man_united.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/man_united.png",
+      "league": "Premier League"
     },
     {
       "name": "Bayern",
@@ -59,7 +63,8 @@
     },
     {
       "name": "Arsenal",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/arsenal.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/arsenal.png",
+      "league": "Premier League"
     },
     {
       "name": "Inter",
@@ -67,7 +72,8 @@
     },
     {
       "name": "Aston Villa",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/aston_villa.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/aston_villa.png",
+      "league": "Premier League"
     },
     {
       "name": "Athletic",
@@ -182,31 +188,38 @@
     },
     {
       "name": "Hull City",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/hull_city.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/hull_city.png",
+      "league": "Premier League"
     },
     {
       "name": "Crystal Palace",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/crystal_palace.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/crystal_palace.png",
+      "league": "Premier League"
     },
     {
       "name": "Everton",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/everton.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/everton.png",
+      "league": "Premier League"
     },
     {
       "name": "Bournemouth",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/bournemouth.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/bournemouth.png",
+      "league": "Premier League"
     },
     {
       "name": "Brighton",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/brighton.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/brighton.png",
+      "league": "Premier League"
     },
     {
       "name": "Newcastle",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/newcastle.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/newcastle.png",
+      "league": "Premier League"
     },
     {
       "name": "Fulham",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/fulham.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/fulham.png",
+      "league": "Premier League"
     },
     {
       "name": "Namibia",
@@ -222,19 +235,23 @@
     },
     {
       "name": "Nottm Forest",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/nottm_forest.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/nottm_forest.png",
+      "league": "Premier League"
     },
     {
       "name": "Brighton",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/brighton.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/brighton.png",
+      "league": "Premier League"
     },
     {
       "name": "Ipswich Town",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/ipswich_town.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/ipswich_town.png",
+      "league": "Premier League"
     },
     {
       "name": "Coventry",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/coventry.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/coventry.png",
+      "league": "Premier League"
     },
     {
       "name": "JK",

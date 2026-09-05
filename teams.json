@@ -319,6 +319,11 @@
       "name": "Lens",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/lens.png",
       "league": "League 1"
+    },
+    {
+      "name": "Lorient",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/lorient.png",
+      "league": "League 1"
     }
   ]
 }

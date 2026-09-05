@@ -51,6 +51,10 @@
     {
       "name": "Tapmad FHD",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/tapmad_fhd.png"
+    },
+    {
+      "name": "SD Quality",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/sd_quality.png"
     }
   ]
 }

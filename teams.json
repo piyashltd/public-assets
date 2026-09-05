@@ -163,27 +163,33 @@
     },
     {
       "name": "Bangladesh",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/bangladesh.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/bangladesh.png",
+      "league": "Cricket"
     },
     {
       "name": "Australia",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/australia.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/australia.png",
+      "league": "Cricket"
     },
     {
       "name": "Sri Lanka",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sri_lanka.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sri_lanka.png",
+      "league": "Cricket"
     },
     {
       "name": "India",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/india.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/india.png",
+      "league": "Cricket"
     },
     {
       "name": "Pakistan",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/pakistan.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/pakistan.png",
+      "league": "Cricket"
     },
     {
       "name": "England",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/england.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/england.png",
+      "league": "Cricket"
     },
     {
       "name": "Al Ahly",
@@ -226,15 +232,18 @@
     },
     {
       "name": "Namibia",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/namibia.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/namibia.png",
+      "league": "Cricket"
     },
     {
       "name": "Zimbabwe",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/zimbabwe.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/zimbabwe.png",
+      "league": "Cricket"
     },
     {
       "name": "South Africa",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/south_africa.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/south_africa.png",
+      "league": "Cricket"
     },
     {
       "name": "Nottm Forest",

@@ -267,31 +267,38 @@
     },
     {
       "name": "JK",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/jk.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/jk.png",
+      "league": "Caribbean Premier League"
     },
     {
       "name": "GAW",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/gaw.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/gaw.png",
+      "league": "Caribbean Premier League"
     },
     {
       "name": "ABF",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/abf.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/abf.png",
+      "league": "Caribbean Premier League"
     },
     {
       "name": "SLK",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/slk.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/slk.png",
+      "league": "Caribbean Premier League"
     },
     {
       "name": "SKN",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/skn.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/skn.png",
+      "league": "Caribbean Premier League"
     },
     {
       "name": "TKR",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/tkr.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/tkr.png",
+      "league": "Caribbean Premier League"
     },
     {
       "name": "Barbados Royals",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/barbados_royals.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/barbados_royals.png",
+      "league": "Caribbean Premier League"
     },
     {
       "name": "Spurs",

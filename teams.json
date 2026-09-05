@@ -227,6 +227,10 @@
     {
       "name": "ABF",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/abf.png"
+    },
+    {
+      "name": "SLK",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/slk.png"
     }
   ]
 }

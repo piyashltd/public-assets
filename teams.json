@@ -2,7 +2,8 @@
   "teams": [
     {
       "name": "Real Madrid",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/real_madrid.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/real_madrid.png",
+      "league": "LaLiga"
     },
     {
       "name": "Man City",
@@ -10,19 +11,23 @@
     },
     {
       "name": "Atl. Madrid",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/atl._madrid.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/atl._madrid.png",
+      "league": "LaLiga"
     },
     {
       "name": "Getafe",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/getafe.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/getafe.png",
+      "league": "LaLiga"
     },
     {
       "name": "Alaves",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/alaves.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/alaves.png",
+      "league": "LaLiga"
     },
     {
       "name": "Barcelona",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/barcelona.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/barcelona.png",
+      "league": "LaLiga"
     },
     {
       "name": "Chelsea",
@@ -66,7 +71,8 @@
     },
     {
       "name": "Athletic",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/athletic.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/athletic.png",
+      "league": "LaLiga"
     },
     {
       "name": "Marseille",
@@ -74,59 +80,73 @@
     },
     {
       "name": "Osasuna",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/osasuna.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/osasuna.png",
+      "league": "LaLiga"
     },
     {
       "name": "Elche",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/elche.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/elche.png",
+      "league": "LaLiga"
     },
     {
       "name": "Espanyol",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/espanyol.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/espanyol.png",
+      "league": "LaLiga"
     },
     {
       "name": "Levante",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/levante.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/levante.png",
+      "league": "LaLiga"
     },
     {
       "name": "Malaga",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/malaga.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/malaga.png",
+      "league": "LaLiga"
     },
     {
       "name": "Racing Sant.",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/racing_sant..png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/racing_sant..png",
+      "league": "LaLiga"
     },
     {
       "name": "Rayo Vallecano",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/rayo_vallecano.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/rayo_vallecano.png",
+      "league": "LaLiga"
     },
     {
       "name": "Celta",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/celta.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/celta.png",
+      "league": "LaLiga"
     },
     {
       "name": "Deportivo",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/deportivo.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/deportivo.png",
+      "league": "LaLiga"
     },
     {
       "name": "Betis",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/betis.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/betis.png",
+      "league": "LaLiga"
     },
     {
       "name": "Real Sociedad",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/real_sociedad.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/real_sociedad.png",
+      "league": "LaLiga"
     },
     {
       "name": "Sevilla",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sevilla.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sevilla.png",
+      "league": "LaLiga"
     },
     {
       "name": "Valencia",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/valencia.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/valencia.png",
+      "league": "LaLiga"
     },
     {
       "name": "Villarreal",
-      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/villarreal.png"
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/villarreal.png",
+      "league": "LaLiga"
     },
     {
       "name": "Leeds",

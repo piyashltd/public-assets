@@ -31,6 +31,10 @@
     {
       "name": "FA Community Shield",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/fa_community_shield.png"
+    },
+    {
+      "name": "Caribbean Premier League",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/leagues/caribbean_premier_league.png"
     }
   ]
 }

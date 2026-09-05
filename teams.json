@@ -280,6 +280,11 @@
     {
       "name": "Barbados Royals",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/barbados_royals.png"
+    },
+    {
+      "name": "Spurs",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/spurs.png",
+      "league": "Premier League"
     }
   ]
 }

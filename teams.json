@@ -285,6 +285,11 @@
       "name": "Spurs",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/spurs.png",
       "league": "Premier League"
+    },
+    {
+      "name": "Sunderland",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sunderland.png",
+      "league": "Premier League"
     }
   ]
 }

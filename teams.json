@@ -235,6 +235,10 @@
     {
       "name": "SKN",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/skn.png"
+    },
+    {
+      "name": "TKR",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/tkr.png"
     }
   ]
 }

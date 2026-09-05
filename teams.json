@@ -329,6 +329,11 @@
       "name": "Nice",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/nice.png",
       "league": "League 1"
+    },
+    {
+      "name": "Le Mans",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/le_mans.png",
+      "league": "League 1"
     }
   ]
 }

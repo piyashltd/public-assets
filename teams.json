@@ -334,6 +334,11 @@
       "name": "Le Mans",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/le_mans.png",
       "league": "League 1"
+    },
+    {
+      "name": "Ireland",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/ireland.png",
+      "league": "Cricket"
     }
   ]
 }

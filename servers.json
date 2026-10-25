@@ -67,6 +67,10 @@
     {
       "name": "beIN SPORTS ENGLISH FHD",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/bein_sports_english_fhd.png"
+    },
+    {
+      "name": "PREMIER SPORTS FHD",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/premier_sports_fhd.png"
     }
   ]
 }

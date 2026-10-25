@@ -63,6 +63,10 @@
     {
       "name": "FANCODE FHD",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/fancode_fhd.png"
+    },
+    {
+      "name": "beIN SPORTS ENGLISH FHD",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/bein_sports_english_fhd.png"
     }
   ]
 }

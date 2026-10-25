@@ -55,6 +55,10 @@
     {
       "name": "SD Quality",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/sd_quality.png"
+    },
+    {
+      "name": "beIN SPORTS ENGLISH",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/servers/bein_sports_english.png"
     }
   ]
 }

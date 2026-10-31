@@ -339,6 +339,11 @@
       "name": "Ireland",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/ireland.png",
       "league": "Cricket"
+    },
+    {
+      "name": "West Indies",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/west_indies.png",
+      "league": "Cricket"
     }
   ]
 }

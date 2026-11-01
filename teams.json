@@ -399,6 +399,11 @@
       "name": "Afghanistan",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/afghanistan.png",
       "league": "Cricket"
+    },
+    {
+      "name": "Sydney Sixers",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sydney_sixers.png",
+      "league": "Cricket"
     }
   ]
 }

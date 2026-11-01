@@ -369,6 +369,11 @@
       "name": "Central Coast Mariners",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/central_coast_mariners.png",
       "league": "A-League"
+    },
+    {
+      "name": "Canberra United",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/canberra_united.png",
+      "league": "A-League Women"
     }
   ]
 }

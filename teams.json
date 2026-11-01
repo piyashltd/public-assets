@@ -409,6 +409,11 @@
       "name": "Hobart Hurricanes",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/hobart_hurricanes.png",
       "league": "Cricket"
+    },
+    {
+      "name": "Real Racing Club",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/real_racing_club.png",
+      "league": "LaLiga"
     }
   ]
 }

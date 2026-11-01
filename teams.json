@@ -344,6 +344,11 @@
       "name": "West Indies",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/west_indies.png",
       "league": "Cricket"
+    },
+    {
+      "name": "New Zealand",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/new_zealand.png",
+      "league": "Cricket"
     }
   ]
 }

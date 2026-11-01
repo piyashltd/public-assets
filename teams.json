@@ -374,6 +374,11 @@
       "name": "Canberra United",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/canberra_united.png",
       "league": "A-League Women"
+    },
+    {
+      "name": "Western Sydney Wanderers",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/western_sydney_wanderers.png",
+      "league": "A-League Women"
     }
   ]
 }

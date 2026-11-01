@@ -394,6 +394,11 @@
       "name": "Sevilla FC",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sevilla_fc.png",
       "league": "LaLiga"
+    },
+    {
+      "name": "Afghanistan",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/afghanistan.png",
+      "league": "Cricket"
     }
   ]
 }

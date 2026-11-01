@@ -364,6 +364,11 @@
       "name": "Melbourne Victory",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/melbourne_victory.png",
       "league": "A-League"
+    },
+    {
+      "name": "Central Coast Mariners",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/central_coast_mariners.png",
+      "league": "A-League"
     }
   ]
 }

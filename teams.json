@@ -359,6 +359,11 @@
       "name": "Brisbane Heat",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/brisbane_heat.png",
       "league": "WBBL"
+    },
+    {
+      "name": "Melbourne Victory",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/melbourne_victory.png",
+      "league": "A-League"
     }
   ]
 }

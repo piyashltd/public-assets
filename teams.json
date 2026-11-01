@@ -379,6 +379,11 @@
       "name": "Western Sydney Wanderers",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/western_sydney_wanderers.png",
       "league": "A-League Women"
+    },
+    {
+      "name": "Newcastle Jets",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/newcastle_jets.png",
+      "league": "A-League"
     }
   ]
 }

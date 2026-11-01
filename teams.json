@@ -389,6 +389,11 @@
       "name": "Liverpool FC",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/liverpool_fc.png",
       "league": "Premier League"
+    },
+    {
+      "name": "Sevilla FC",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sevilla_fc.png",
+      "league": "LaLiga"
     }
   ]
 }

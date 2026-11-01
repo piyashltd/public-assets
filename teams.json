@@ -384,6 +384,11 @@
       "name": "Newcastle Jets",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/newcastle_jets.png",
       "league": "A-League"
+    },
+    {
+      "name": "Liverpool FC",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/liverpool_fc.png",
+      "league": "Premier League"
     }
   ]
 }

@@ -354,6 +354,11 @@
       "name": "Sydney Thunder",
       "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/sydney_thunder.png",
       "league": "WBBL"
+    },
+    {
+      "name": "Brisbane Heat",
+      "logo": "https://cdn.jsdelivr.net/gh/piyashltd/public-assets@main/logos/teams/brisbane_heat.png",
+      "league": "WBBL"
     }
   ]
 }
